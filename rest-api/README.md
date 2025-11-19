@@ -12,5 +12,5 @@ curl -X POST 'http://localhost:3001/invoke' \
 # Sample query for getting QR details
 
 ``` sh
-curl 'http://localhost:3001/query?channelid=mychannel&chaincodeid=horticulture&function=ReadAsset&args=1' 
+curl 'http://localhost:3001/query?channelid=mychannel&chaincodeid=crop&function=ReadAsset&args=1' 
 ```
