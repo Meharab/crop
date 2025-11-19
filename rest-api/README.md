@@ -1,10 +1,10 @@
-# Sample invoke for pushing QR detail onchain
+# Sample invoke for pushing QR detail on-chain
 
 ``` sh
 curl -X POST 'http://localhost:3001/invoke' \
   -H 'Content-Type: application/x-www-form-urlencoded' \
   --data 'channelid=mychannel' \
-  --data 'chaincodeid=horticulture' \
+  --data 'chaincodeid=crop' \
   --data 'function=CreateAsset' \
   --data-urlencode 'args@asset.json'
 ```
@@ -12,5 +12,5 @@ curl -X POST 'http://localhost:3001/invoke' \
 # Sample query for getting QR details
 
 ``` sh
-curl 'http://localhost:3001/query?channelid=mychannel&chaincodeid=horticulture&function=ReadAsset&args=2' 
+curl 'http://localhost:3001/query?channelid=mychannel&chaincodeid=horticulture&function=ReadAsset&args=1' 
 ```
