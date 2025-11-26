@@ -1,26 +1,26 @@
 {
   "productId": "1",
-  "product_name_en": "Frozen Hilsa Fish",
-  "product_name_bn": "Frozen Hilsa Fish",
-  "species_en": "Hilsa",
-  "species_bn": "Hilsa",
-  "processing_type_en": "Frozen",
-  "processing_type_bn": "Frozen",
+  "product_name_en": "PRAN Muri 500gm",
+  "product_name_bn": "প্রাণ মুড়ি ৫০০ গ্রাম",
+  "species_en": "Oryza sativa",
+  "species_bn": "ওরিজা স্যাটিভা",
+  "processing_type_en": "Dried",
+  "processing_type_bn": "শুকনো",
   "date_of_harvesting": "2025-09-01",
   "date_of_packaging": "2025-09-03",
   "expired_date": "2026-03-01",
   "mrp": 1200.5,
   "source_of_agro_commodities_en": [
-    "Filtered water",
-    "Arsenic"
+    "Dried",
+    "Loose pack duringing transportation"
   ],
   "source_of_agro_commodities_bn": [
-    "Filtered water",
-    "Arsenic"
+    "শুকনো",
+    "পরিবহনের সময় লুজ প্যাকেট"
   ],
-  "batch_number": "BATCH-001",
-  "secondary_batch": "SBATCH-001",
-  "lot_number": "LOT-001",
+  "batch_number": "HO-KA-20251109-0007",
+  "secondary_batch": "HO-KA-20251109-0008",
+  "lot_number": "PR-PR-20251123-0017",
   "net_weight": 2.5,
   "certification_en": [
     "ISO22000",
@@ -36,15 +36,15 @@
   ],
   "production_latitude": 23.8103,
   "production_longitude": 90.4125,
-  "producer_organization_en": "Padma Fisheries Ltd",
-  "producer_organization_bn": "Padma Fisheries Ltd",
+  "producer_organization_en": "Padma Crop Land Ltd",
+  "producer_organization_bn": "পদ্মা ক্রোপল্যান্ড লিমিটেড",
   "crop_collection_center_latitude": 23.90,
   "crop_collection_center_longitude": 90.44,
-  "collector_organization_en": "Dhaka Fish Collectors",
-  "collector_organization_bn": "Dhaka Fish Collectors",
+  "collector_organization_en": "BD Crop Collection Center",
+  "collector_organization_bn": "বিডি ক্রপ কালেকশন সেন্টার",
   "crop_processing_unit_latitude": 23.75,
   "crop_processing_unit_longitude": 90.39,
-  "processor_organization_en": "Bangladesh Fish Processing Ltd",
-  "processor_organization_bn": "Bangladesh Fish Processing Ltd",
+  "processor_organization_en": "PRAN FOOD",
+  "processor_organization_bn": "প্রাণ ফুড",
   "docType": "asset"
 }
