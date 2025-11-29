@@ -6,7 +6,7 @@ curl -X POST 'http://localhost:3001/invoke' \
   --data 'channelid=mychannel' \
   --data 'chaincodeid=crop' \
   --data 'function=CreateAsset' \
-  --data-urlencode 'args@asset.json'
+  --data-urlencode 'args@crop.json'
 ```
 
 # Sample query for getting QR details
